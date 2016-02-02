@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Upsilon officially released!"
+title:  "Upsilon officially released! :)"
 categories: upsilon update
 date: 2016-02-02
 ---
