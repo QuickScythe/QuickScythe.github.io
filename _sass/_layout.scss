@@ -94,14 +94,8 @@
     }
 }
 
-/**
- * Posts
- */
- 
- .post{
- 	border: 1px solid #C1C1C1;
- 	padding: 1em;
- }
+
+
   
 
 
@@ -187,9 +181,16 @@
     font-size: 20px;
 }
 
+
+/**
+ * Posts
+ */
+
 .post {
     margin-left: 0;
     list-style: none;
+    border: 1px solid #C1C1C1;
+ 	padding: 1em;
 
     > li {
         margin-bottom: $spacing-unit;
@@ -207,10 +208,6 @@
 }
 
 
-
-/**
- * Posts
- */
 .post-header {
     margin-bottom: $spacing-unit;
 }
