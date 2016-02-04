@@ -172,6 +172,33 @@ pre {
     }
 }
 
+.body-wrapper {
+    display: flex;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    margin:0;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+    
+   
+}
+
+.body-wrapper div{
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.home{
+  max-width: 70%;
+}
+
+.projects{
+  max-width: 20%;
+}
+
 
 
 /**
