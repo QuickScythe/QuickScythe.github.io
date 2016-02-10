@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Upsilon name change!"
-categories: FBLA Game update
-date:   2016-10-02
+title:  "Upsilon name change"
+date:   2016-02-10
+categories: fbla game update
 ---
-Upsilon has been officially renamed to Trinnorica. Nothing else has changed, just the name. This doesn't mean that anything is going to change in gameplay because of this.
+Upsilon has officially been renamed to Trinnorica. The change of the name will not affect the gameplay at all :-).
