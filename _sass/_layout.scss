@@ -189,8 +189,8 @@
 .post {
     margin-left: 0;
     list-style: none;
-    border: 1px solid #C1C1C1;
  	padding: 1em;
+ 	border-bottom: 1px solid $grey-color-light;
 
     > li {
         margin-bottom: $spacing-unit;
@@ -213,13 +213,20 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 55px;
     letter-spacing: -1px;
     line-height: 1;
+    
+    text-decoration: none;
 
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+
+.post-title:hover{
+text-decoration: none;
+	color: $brand-color;
 }
 
 .post-content {

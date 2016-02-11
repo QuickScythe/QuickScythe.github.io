@@ -1,7 +1,8 @@
 ---
 layout: post
+author: Cameron Witcher
 title:  "Upsilon name change"
-date:   2016-02-10
+day:   Feb 10, 2016
 categories: fbla game update
 ---
 Upsilon has officially been renamed to Trinnorica. The change of the name will not affect the gameplay at all :-).
