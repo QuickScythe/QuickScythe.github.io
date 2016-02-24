@@ -13,3 +13,5 @@ categories: fbla game update
 	<li>Added new keys and doors</li>
 </ul>
 
+<p>You can [click here](http://vps69891.vps.ovh.ca:8080/job/Trinnorica/ws/downloads/latest/Trinnorica-latest.jar) to download the latest Trinnorica version.</p>
+
