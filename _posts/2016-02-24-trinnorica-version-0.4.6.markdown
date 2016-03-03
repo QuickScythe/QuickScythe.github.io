@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Trinnorica version 0.5.6"
-date:   2016-02-24
+author: Cameron Witcher
+title:  "Trinnorica v. 0.4.6!"
+day:   Feb 24, 2016
 categories: fbla game update
 ---
 ![Trinnorica v 0.1.0]({{ site.url }}/assets/trinnorica-0.4.6.png)
