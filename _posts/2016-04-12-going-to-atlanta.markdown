@@ -1,15 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @QuickScythe
- Unwatch 1
-  Star 0
- Fork 0 QuickScythe/QuickScythe.github.io
- Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
-QuickScythe.github.io/_posts/ 
 ---
 layout: post
 author: Cameron Witcher
