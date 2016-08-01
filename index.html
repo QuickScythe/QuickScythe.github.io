@@ -15,7 +15,7 @@ layout: default
           <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         </li>
         <li>
-          <p>{{ post.excerpt }}</p>
+          <p>{{ post.excerpt }}</p><span class="faded"><a href="{{ post.url | prepend: site.baseurl }}">Click here to read more...</a></span>
         </li>
       </ul>
     {% endfor %}
