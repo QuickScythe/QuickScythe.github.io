@@ -1,3 +1,5 @@
-task :default do
-  puts "Ruby is running"  
+task default: %w[hello]
+ 
+task :hello do
+  puts "Hello world!"
 end
