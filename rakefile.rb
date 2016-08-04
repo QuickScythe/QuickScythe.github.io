@@ -1,5 +1,5 @@
 
-Rake::TestTask.new(:test) do
+task :test do
   puts "testing"
 end
 
