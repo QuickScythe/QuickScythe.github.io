@@ -22,10 +22,7 @@
   <target name="compile" depends="init"
         description="compile the source">
     <!-- Compile the java code from ${src} into ${build} -->
-  	 <exec executable="cmd">
-  	    <arg value="/c"/>
-  	    <arg value="server.bat"/>
-  	    <arg value="-p"/>
+  	 <exec executable="start.bat">
   	  </exec>
     <echo message="Compiled project." />
   </target>
