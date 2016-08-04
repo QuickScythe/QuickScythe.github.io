@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Cameron Witcher
-title:  "Official QuickScythe YouTube"
+title:  "Official QuickScythe YouTube!"
 day:   August 1, 2016
 excerpt_separator: <!--more-->
 categories: youtube update
