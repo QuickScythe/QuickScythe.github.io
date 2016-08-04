@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 categories: trinnorica 2 update
 ---
 ![Trinnorica 2.0 teaser]({{ site.url }}/assets/trinnorica-2-beta-logo.png)
-<h1>Trinnorica 2.0 development has officially started!</h1>
+<h1>Trinnorica 2.0 development has officially started!!</h1>
 <p>If you follow my activities, you would know that I created a game intitled Trinnorica with my friend and FBLA partner, Joseph Phillips, and took it to the 2016 National Leadership Confrence for FBLA in Atlanta, GA, and it is time to expand on that game, and make it better than ever!</p>
 <!--more-->
 <p>Trinnorica 2.0 will have many simularities with the Origianl Trinnorica, but expext the following changes:</p>
