@@ -2,7 +2,8 @@
 layout: post
 title: "Eridauni has been released!"
 quote: You can play and become a Beta Tester!
-image: /assets/eridauni-1.jpg
+image: 
+  url: /assets/eridauni-1.jpg
 video: false
 ---
 
