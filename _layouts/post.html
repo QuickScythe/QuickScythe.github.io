@@ -17,11 +17,11 @@ article: true
 		{% if page.quote %}
 			<h2>{{ page.quote }}</h2>
 		{% endif %}
-		<a class="site-title" href="{{ site.url }}"><div class="site-icon-small" style="background-image: url({{ site.icon }});"></div>{{ site.title }}</a>, em {{ page.date | date: "%-d de "}}{% assign m = page.date | date: "%-m" %}{% case m %}{% when '1' %}janeiro{% when '2' %}fevereiro{% when '3' %}março{% when '4' %}abril{% when '5' %}maio{% when '6' %}junho{% when '7' %}julho{% when '8' %}agosto{% when '9' %}setembro{% when '10' %}outubro{% when '11' %}novembro{% when '12' %}dezembro{% endcase %}{{ page.date | date: " de %Y" }}
+		<a class="site-title" href="{{ site.url }}"><div class="site-icon-small" style="background-image: url({{ site.icon }});"></div>{{ site.title }}</a>, on {% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}January{% when '2' %}February{% when '3' %}March{% when '4' %}April{% when '5' %}May{% when '6' %}June{% when '7' %}July{% when '8' %}August{% when '9' %}September{% when '10' %}October{% when '11' %}November{% when '12' %}December{% endcase %} {{ post.date | date: "%-d, "}}{{ post.date | date: " of %Y" }}
 	</div>
 	{% if page.image.source %}
 	<div id="img-info" data-stellar-ratio="0.5">
-		<a href="{{ page.image.source }}" target="_blank" title="Fonte {% if page.video %}do vídeo{% else %}da imagem{% endif %}"><span class="genericon genericon-link"></span></a>
+		<a href="{{ page.image.source }}" target="_blank" title="Fonte {% if page.video %}Video{% else %}Image{% endif %}"><span class="genericon genericon-link"></span></a>
 	</div>
 	{% endif %}
 	<div id="nav-icon" style="bottom: 30px;" data-stellar-ratio="0.5">
@@ -41,7 +41,7 @@ article: true
 {% if page.next %}
 	{% capture footer_style %}{% if page.next.dark %}dark{% else %}clean{% endif %}{% endcapture %}
 	{% capture footer_image %}{% if page.next.image.url %}{{ page.next.image.url }}{% else %}{{ site.cover }}{% endif %}{% endcapture %}
-	{% capture footer_message %}Leia a seguir{% endcapture %}
+	{% capture footer_message %}Read the following{% endcapture %}
 	{% capture footer_url %}{{ page.next.url }}{% endcapture %}
 	{% capture footer_title %}{{ page.next.title }}{% endcapture %}
 	{% capture footer_quote %}{{ page.next.quote }}{% endcapture %}
@@ -49,7 +49,7 @@ article: true
 	{% for post in site.related_posts limit:1 %}
 		{% capture footer_style %}{% if post.dark %}dark{% else %}clean{% endif %}{% endcapture %}
 		{% capture footer_image %}{% if post.image.url %}{{ post.image.url }}{% else %}{{ site.cover }}{% endif %}{% endcapture %}
-		{% capture footer_message %}Em destaque{% endcapture %}
+		{% capture footer_message %}FEATURED{% endcapture %}
 		{% capture footer_url %}{{ post.url }}{% endcapture %}
 		{% capture footer_title %}{{ post.title }}{% endcapture %}
 		{% capture footer_quote %}{{ post.quote }}{% endcapture %}
