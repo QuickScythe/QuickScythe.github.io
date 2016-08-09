@@ -1,22 +1,24 @@
 ---
 layout: post
-author: Cameron Witcher
-title:  "Trinnorica 2.0 announcement"
-day:   August 3, 2016
-excerpt_separator: <!--more-->
-categories: trinnorica 2 update
+title: "Trinnorica 2.0 Announcement"
+quote: Trinnorica expands with a new theme, and more detail.
+image: /assets/images/cover-1.png
+video: false
 ---
-![Trinnorica 2.0 teaser]({{ site.url }}/assets/trinnorica-2-beta-logo.png)
-<h1>Trinnorica 2.0 development has officially started!!</h1>
-<p>If you follow my activities, you would know that I created a game intitled Trinnorica with my friend and FBLA partner, Joseph Phillips, and took it to the 2016 National Leadership Confrence for FBLA in Atlanta, GA, and it is time to expand on that game, and make it better than ever!</p>
-<!--more-->
-<p>Trinnorica 2.0 will have many similarities with the Original Trinnorica, but expect the following changes:</p>
-<ul>
-  <li>New images and avatars</li>
-  <li>Different levels</li>
-  <li>Faster gameplay</li>
-  <li>Better sounds</li>
-  <li>New sponsors</li>
-  <li>And against my better judgement, but suggested by many: <i>Better</i> clouds!</li>
-</ul>
-<p>Check back here to keep updated.</p>
+
+#Trinnorica 2.0 development has officially started!
+
+If you follow my activities, you would know that I created a game entitled Trinnorica with my friend and FBLA partner, Joseph Phillips, and took it to the 2016 National Leadership Conference for FBLA in Atlanta, GA, and it is time to expand on that game, and make it better than ever. Trinnorica expands with a new theme, and more detail with Trinnorica 2.0!
+
+##Changes
+
+```
+- New images and avatars
+- Different levels
+- Faster gameplay
+- Better sounds
+- New sponsors
+- And against my better judgement, but suggested by many: Better clouds!
+```
+
+Be sure to check back here to keep updated.
