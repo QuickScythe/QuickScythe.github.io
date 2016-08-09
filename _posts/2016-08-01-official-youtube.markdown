@@ -2,7 +2,7 @@
 layout: post
 title: "Official QuickScythe YouTube"
 quote: Trinnorica expands with a new theme, and more detail.
-image: /assets/banner-1.png
+image: /assets/banner-1.jpg
 video: false
 ---
 
