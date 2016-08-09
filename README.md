@@ -1,2 +1,3 @@
-#Trinnorica website
-Just as simple as the title. :-)
+## camporez.github.io
+
+Powered by [Thinny](http://github.com/camporez/Thinny).

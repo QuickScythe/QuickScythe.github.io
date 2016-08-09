@@ -1,44 +1,55 @@
 # Dependencies
-markdown: redcarpet
-pygments:	true
+markdown:	kramdown
+highlighter: pygments
 
 # Permalinks
 permalink:	/blog/:title
 
 # Setup
-title:		Trinnorica
+title:		Camporez
 tagline:	'blog'
-description:	'Home site of the Computer game, Trinnorica.'
+description:	'Um blog pessoal.'
+url:		http://camporez.github.io
+commentsystem:	google
+disqus:		camporez
 
 author:
-  name:		'Cameron Witcher'
+  name:		'Ian Camporez Brunelli'
+  url:		https://google.com/+IanCamporezBrunelli
 
 paginate:	5
 
 # Custom vars
-icon:		/assets/images/icon.png
+icon:		/assets/images/icon2.png
 cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/WitcherCameron
-    desc:	Follow me on twitter
+    url:	https://twitter.com/iancamporez
+    desc:	Siga-me no twitter
 
   - icon:	github
-    url:	https://github.com/QuickScythe
-    desc:	Fork me on github
+    url:	https://github.com/camporez
+    desc:	Acesse meu github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+QuickScythe
-    desc:	Add me on google+
+    url:	https://google.com/+IanCamporezBrunelli
+    desc:	Me adicione ao google+
+
+  - icon:	feed
+    url:	http://camporez.github.io/atom.xml
+    desc:	Inscreva-se no meu feed
     
 menu:
-  - title:	Home
+  - title:	Início
     url:	/
     
-  - title:	About
-    url:	/about
-    
+  - title:	Sobre
+    url:	/sobre
+
+
 copyright:
-  author:	Cameron Witcher
-  url:		http://quickscythe.github.com
+  author:	Camporez
+  url:		http://camporez.github.io
+  type_title:	Alguns direitos reservados
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5/br
