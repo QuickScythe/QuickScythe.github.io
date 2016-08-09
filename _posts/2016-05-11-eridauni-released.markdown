@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Eridauni has been released!"
