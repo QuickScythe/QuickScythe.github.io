@@ -10,8 +10,8 @@ title: QuickScythe
 tagline: 'Home'
 description: 'Updates for everything QuickScythe'
 url: http://QuickScythe.github.io
-commentsystem: google
-disqus: quickscythe
+#commentsystem: google
+#disqus: quickscythe
 404title: 404
 404line: This page just found out it's father is Darth Vader and ran away. Go to the homepage.
 
