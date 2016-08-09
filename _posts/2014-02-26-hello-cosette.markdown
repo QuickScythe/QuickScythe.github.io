@@ -10,5 +10,3 @@ theme_color: 302F2D
 ---
 
 #Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
-
-Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
