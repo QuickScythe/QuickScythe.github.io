@@ -7,10 +7,11 @@ permalink:	/blog/:title
 
 # Setup
 title: QuickScythe
-tagline:	'Home'
-description:	'Updates for everything QuickScythe'
-url:		http://QuickScythe.github.io
-commentsystem:	google
+tagline: 'Home'
+description: 'Updates for everything QuickScythe'
+url: http://QuickScythe.github.io
+commentsystem: google
+disqus: quickscythe
 
 author:
   name:		'Cameron Witcher'
