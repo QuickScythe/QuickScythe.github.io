@@ -3,7 +3,7 @@ layout: post
 title: "Trinnorica 2.0 Announcement"
 quote: Trinnorica expands with a new theme, and more detail.
 image: 
-  url: /assets/images/cover-1.png
+  url: /assets/images/cover.jpg
 video: false
 ---
 
