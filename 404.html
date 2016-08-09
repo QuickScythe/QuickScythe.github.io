@@ -1,8 +1,22 @@
----
-layout: 404
-title: "404"
----
-  <section class="center">
+<!DOCTYPE html>
+<html>
+	{% include head-404.html %}
+	<body>
+		{{ content }}
+		<script>
+		var width = $(window).width()
+		if ( width > 899 )
+		$( function(){
+		    $.stellar({
+			verticalScrolling: true,
+			horizontalOffset: 0,
+			verticalOffset: 0,
+			positionProperty: 'transform',
+			responsive: true
+		    });
+		});
+		</script>
+		<section class="center">
     <article>
       <h1 class="header">404</h1>
       <p class="error">ERROR</p>
@@ -20,3 +34,7 @@ title: "404"
       </ul>
     </article>
   </section>
+	</body>
+</html>
+
+  
