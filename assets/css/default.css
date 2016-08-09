@@ -80,11 +80,11 @@ h3 {
 }
 
 #post-info h2:before {
-	content: "â€œ";
+	content: "''";
 }
 
 #post-info h2:after {
-	content: "â€�";
+	content: "''";
 }
 
 #post-info h3 {
@@ -127,7 +127,7 @@ h3 {
 }
 
 .outline {
-	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, 1px 1px 0 #000, -1px 1px 0 #000;
+	text-shadow: 0 0 0 0;
 }
 
 .site-icon-small {
