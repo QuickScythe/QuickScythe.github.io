@@ -81,9 +81,3 @@ Here is a table with all Thinny's versions:
 ## Download
 
 > Thinny 2.1 is already [available for download on GitHub](https://github.com/camporez/Thinny/releases).
-
------
-Want to see something else added or report a bug? [Open an issue](https://github.com/camporez/camporez.github.io/issues/new).
-
-[^1]: This file is placed in your root directory. It's the main file of configuration. For more information, read [the docs](http://jekyllrb.com/docs/configuration/).
-[^2]: See the [issues list](https://github.com/camporez/camporez.github.io/issues?milestone=3).
