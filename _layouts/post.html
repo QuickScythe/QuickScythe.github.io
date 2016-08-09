@@ -13,9 +13,9 @@ article: true
 	{% endif %}
 	{% include top.html %}
 	<div id="post-info" data-stellar-ratio="0.7">
-		<h1>{{ page.title }}</h1>
+		<h1 class="outline">{{ page.title }}</h1>
 		{% if page.quote %}
-			<h2>{{ page.quote }}</h2>
+			<h2 class="outline">{{ page.quote }}</h2>
 		{% endif %}
 		<a class="site-title" href="{{ site.url }}"><div class="site-icon-small" style="background-image: url({{ site.icon }});"></div>{{ site.title }}</a>, on {% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}January{% when '2' %}February{% when '3' %}March{% when '4' %}April{% when '5' %}May{% when '6' %}June{% when '7' %}July{% when '8' %}August{% when '9' %}September{% when '10' %}October{% when '11' %}November{% when '12' %}December{% endcase %} {{ post.date | date: "%-d, "}}{{ post.date | date: " of %Y" }}
 	</div>
