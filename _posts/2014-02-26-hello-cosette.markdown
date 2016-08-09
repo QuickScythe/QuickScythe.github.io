@@ -22,6 +22,7 @@ This new version of Thinny comes with mobile support and some bugfixes.
 
 The global variables are set on the `_config.yml`[^1] file.
 
+
 To start, you need to change at least the variable `url` on the file.
 
 #### Social links
