@@ -5,6 +5,7 @@ quote: I have created a YouTube channel to upload all kinds of videos.
 image: 
   url: /assets/banner-1.png
 video: false
+dark: true
 ---
 
 #The official YouTube for QuickScythe has been released!!
