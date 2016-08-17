@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Eridauni gamemode!"
-quote: You can play and become a Beta Tester!
+quote: We are currently working on SkyRings...
 image: 
   url: /assets/eridauni-1.jpg
 video: false
