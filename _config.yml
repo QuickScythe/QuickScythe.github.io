@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Permalinks
-permalink:  /blog/:title
+permalink:  /blog/:date/:title
 
 # Setup
 title: QuickScythe
