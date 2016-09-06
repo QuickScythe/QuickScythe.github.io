@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trinnorica 2.0 discontinued!"
-quote: We are currently working on SkyRings...
+quote: I am renaming Trinnorica and continuing development with a new partner.
 image: false
 video: false
 ---
