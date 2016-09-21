@@ -27,6 +27,7 @@ I am a part-time developer for a gaming server called, MineSwine. My job is to c
 <span>HIGH SCHOOL DEGREE OBTAINED MAY 2017</span><br>
 I attended school at Wellsville High school in Wellsville Kansas. I was involved in many extracurricular activities, such as FBLA, working as a sound tech for the Drama club, and was part of Wellsville’s Scholar’s bowl team.
 
+#References
 <b>Dawn Rottinghaus</b>,<br>
 WELLSVILLE HIGHSCHOOL<br>
 [+0 (555) 555-5555]() | [drottinghaus@usd289.org](mailto:drottinghaus@usd289.org)
