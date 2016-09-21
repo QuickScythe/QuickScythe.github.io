@@ -29,14 +29,14 @@ I attended school at Wellsville High school in Wellsville Kansas. I was involved
 
 <b>Dawn Rottinghaus</b>,<br>
 WELLSVILLE HIGHSCHOOL<br>
-+0 (555) 555-5555 | drottinghaus@gmail.com
+[+0 (555) 555-5555]() | [drottinghaus@usd289.org](mailto:drottinghaus@usd289.org)
 
 <b>Eric Evens</b>,<br>
 WELLSVILLE HIGHSCHOOL<br>
-+0 (555) 555-5555 | eevens@gmail.com
+[+0 (555) 555-5555]() | [eevans@usd289.org](mailto:eevans@usd289.org)
 
 <b>Someone Else</b>,<br>
 Dunno<br>
-+0 (555) 555-5555 | DNE@gmail.com
+[+0 (555) 555-5555]() | [DNE@gmail.com](mailto:DNE@gmail.com)
 
 
