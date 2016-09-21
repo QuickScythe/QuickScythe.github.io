@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Resume
+dark: true
 ---
 
-<div class="message">
+<!--<div class="message">
   This page is still being worked on.
-</div>
+</div>-->
 
 #Objective
 To obtain a position of employment with your company.
