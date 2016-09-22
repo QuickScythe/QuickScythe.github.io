@@ -8,14 +8,16 @@ dark: true
   This page is still being worked on.
 </div>-->
 
-#Objective
+#Cameron Witcher
+
+##Objective
 To obtain a position of employment with your company.
 
-#Skills & Abilities
+##Skills & Abilities
 One of my greatest skills is my ability to work with almost any software. I am an avid Java desktop programmer and I have competed on a national level with a computer game that I created during 2016. I am also a professional actor. I do many Civil War Reenactments every year.
 
-#Experience
-<b>OWNER</b>, RUMORG<br>
+##Experience
+<strong>OWNER</strong>, RUMORG<br>
 <span>SUMMER 2015-PRESENT</span><br>
 Rumorg is a social media website I own, and develop. I started this during the summer of 2016, and my job was to develop new features, fix bugs, and moderate posts made by users.
 
@@ -23,12 +25,12 @@ Rumorg is a social media website I own, and develop. I started this during the s
 <span>SUMMER 2016-PRESENT</span><br>
 I am a part-time developer for a gaming server called, MineSwine. My job is to create plugins, or addons, to add new features, update old projects, and keep backend functions up to date, and bug free.
 
-#Education
+##Education
 <b>Wellsville High School</b>, Wellsville, KS<br>
 <span>HIGH SCHOOL DEGREE OBTAINED MAY 2017</span><br>
 I attended school at Wellsville High school in Wellsville Kansas. I was involved in many extracurricular activities, such as FBLA, working as a sound tech for the Drama club, and was part of Wellsville’s Scholar’s bowl team.
 
-#References
+##References
 <b>Dawn Rottinghaus</b>,<br>
 WELLSVILLE HIGHSCHOOL<br>
 [+0 (555) 555-5555]() | [drottinghaus@usd289.org](mailto:drottinghaus@usd289.org)
