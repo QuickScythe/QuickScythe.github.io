@@ -1,19 +1,16 @@
 # Dependencies
-markdown: redcarpet
-highlighter: pygments
-
+markdown:	kramdown
 # Permalinks
-permalink:  /blog/:year/:month/:day/:title/
+permalink:	/blog/:title
 
 # Setup
-title: QuickScythe
-tagline: 'Home'
-description: 'Updates for everything QuickScythe'
-url: http://QuickScythe.github.io
-commentsystem: google
-disqus: nothing
-404title: 404
-404line: This page just found out it's father is Darth Vader and ran away. Go to the homepage.
+title:            QuickScythe
+tagline:          'blog'
+description:      'My personal blog.'
+url:              http://quickscythe.github.io
+baseurl:          
+commentsystem:    google
+disqus:           example
 
 author:
   name: 'Cameron Witcher'
