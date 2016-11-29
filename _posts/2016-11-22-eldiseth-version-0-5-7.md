@@ -4,7 +4,9 @@ title: "Eldiseth Version 0.5.7!"
 quote: This version's code name is 'Eldiseth'.
 image: /assets/images/cover.jpg
 video: false
-author: QuickScythe
+author:
+  name: QuickScythe
+  icon: true
 ---
 
 #Trinnorica 2.0 development has officially started!
