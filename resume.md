@@ -22,8 +22,12 @@ One of my greatest skills is my ability to work with almost any software. I am a
 Rumorg is a social media website I own, and develop. I started this during the summer of 2016, and my job was to develop new features, fix bugs, and moderate posts made by users.
 
 <b>DEVELOPER</b>, MINESWINE<br>
-<span>SUMMER 2016-PRESENT</span><br>
-I am a part-time developer for a gaming server called, MineSwine. My job is to create plugins, or addons, to add new features, update old projects, and keep backend functions up to date, and bug free.
+<span>SUMMER 2016-WINTER 2016</span><br>
+I was a part-time developer for a gaming server called, MineSwine. My job was to create plugins, or addons, to add new features, update old projects, and keep backend functions up to date, and bug free.
+
+<b>Developer</b> STRATOS<br>
+<span>WINTER 2016-PRESENT</span><br>
+I am currently working with another gaming server, called Stratos. My job is to head the Development department in creating plugins, websites, and programs.
 
 ##Education
 <b>Wellsville High School</b>, Wellsville, KS<br>
