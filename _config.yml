@@ -1,23 +1,18 @@
-# Dependencies
-markdown:	redcarpet
-# Permalinks
-permalink:	/blog/:title
+markdown: redcarpet
+permalink: /blog/:title
 
-# Setup
-title:            QuickScythe
-tagline:          'blog'
-description:      'My personal blog.'
-url:              http://quickscythe.github.io
-baseurl:          
-commentsystem:    google
-disqus:           example
+title: QuickScythe
+tagline: 'Blog'
+description: 'My Personal Blog'
+url: http://quickscythe.github.io
+commentsystem: google
+disqus: example
 
 author:
   name: 'Cameron Witcher'
 
 paginate: 5
 
-# Custom vars
 icon: /assets/images/icon2.png
 cover: /assets/images/menu-background.png
 
@@ -28,10 +23,9 @@ social:
   - icon: github
     url: https://github.com/QuickScythe
     desc: Fork me on GitHub
-
   - icon: googleplus-alt
     url: https://google.com/+QuickScythe
-    desc: Follow me on google+
+    desc: Follow me on Google Plus
     
 menu:
   - title: Home
@@ -39,14 +33,13 @@ menu:
     
   - title: About
     url: /about
-    
-  - title: Resumé
+  
+  - title: Resume
     url: /resume
     
-- title: Radio
+  - title: Radio
     url: /radio
-
-
+    
 copyright:
   author: Cameron Witcher
   url: http://quickscythe.github.io
