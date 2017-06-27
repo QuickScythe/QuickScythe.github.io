@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 permalink: /blog/:title
 
 title: QuickScythe
